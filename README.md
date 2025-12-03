@@ -1,53 +1,20 @@
-## Hi there 👋
-<div align="center">
+<h1 align="center">Hi 👋, I'm kartik malik</h1>
+<h3 align="center">Aspiring Data Scientist | Python | ML | Deep Learning | Tableau | Power BI</h3>
 
-# 👋 Hey there, I'm Kartik Malik! 
+- 🔭 I’m currently working on **Hotel Management System → Next: ML Customer Prediction Model 🏨➡️🤖**
 
-**25-year-old aspiring Data Scientist** 📊 | Passionate about turning data into actionable insights 🚀
+- 🌱 I’m currently learning **"From Python loops → Linear Regression → Deep Learning → LLMs! 🔄"**
 
-![Data Scientist](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+- 📫 How to reach me **malikkartik147@gmail.com**
 
-</div>
+- ⚡ Fun fact **I once predicted my Uber Eats delivery time better than the app itself! 📈🚀**
 
-## 🎯 About Me
-- 🔭 **Currently mastering**: Python, Machine Learning, Deep Learning & LLMs 🤖
-- 💻 **Tools I love**: Excel, Tableau, Power BI 📈
-- 🎓 **Specialties**: Linear Regression, Data Analysis, Predictive Modeling
-- ⚡ **Fun fact**: Turning complex datasets into simple stories! ✨
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/kartik-malik-39063823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kartik-malik-39063823b" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kartikmalik8704?igsh=mxdvcjhoczbontewdq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikmalik8704?igsh=mxdvcjhoczbontewdq==" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@malikkartik147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@malikkartik147" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Tech Stack
-
-## 🔥 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Hotel Management System](https://github.com/kartikmalik/hotel-management-python) | Console app for room booking & food orders | Python, Dictionaries, Loops |
-| Coming Soon... | ML Predictions | Scikit-learn, Pandas |
-
-## 📈 GitHub Stats
-<div align="center">
-
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikmalik&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikmalik&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## 🌐 Let's Connect!
-<div align="center">
-<a href="https://linkedin.com/in/kartikmalik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kartikmalik@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://twitter.com/kartikmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</div>
-
-## 🏆 Achievements
-- ✅ **Python Basics** - Loops, Dictionaries, File Handling
-- ✅ **Data Visualization** - Tableau & Power BI dashboards
-- 🚀 **Currently learning** - Advanced ML & Neural Networks
-
----
-
-<div align="center">
-**"Data is the new oil. Analytics is the combustion engine."** 🛢️⚡
-<br><br>
-💙 **Thanks for visiting!** Feel free to say hi 👋
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
